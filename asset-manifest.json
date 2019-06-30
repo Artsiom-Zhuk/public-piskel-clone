@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.36e71e44.chunk.css",
-    "main.js": "/static/js/main.51318a39.chunk.js",
-    "main.js.map": "/static/js/main.51318a39.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.a30503ae.chunk.js": "/static/js/2.a30503ae.chunk.js",
-    "static/js/2.a30503ae.chunk.js.map": "/static/js/2.a30503ae.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.106ae341442b4d5b0a12cd87a8071c3a.js": "/precache-manifest.106ae341442b4d5b0a12cd87a8071c3a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.36e71e44.chunk.css.map": "/static/css/main.36e71e44.chunk.css.map",
-    "static/media/developer.jpg": "/static/media/developer.0d2fa9c5.jpg",
-    "static/media/piskel.png": "/static/media/piskel.bc224062.png",
-    "static/media/piskel2.png": "/static/media/piskel2.a4086f1c.png"
+    "main.css": "/public-piskel-clone/static/css/main.36e71e44.chunk.css",
+    "main.js": "/public-piskel-clone/static/js/main.61257897.chunk.js",
+    "main.js.map": "/public-piskel-clone/static/js/main.61257897.chunk.js.map",
+    "runtime~main.js": "/public-piskel-clone/static/js/runtime~main.c845f434.js",
+    "runtime~main.js.map": "/public-piskel-clone/static/js/runtime~main.c845f434.js.map",
+    "static/js/2.a30503ae.chunk.js": "/public-piskel-clone/static/js/2.a30503ae.chunk.js",
+    "static/js/2.a30503ae.chunk.js.map": "/public-piskel-clone/static/js/2.a30503ae.chunk.js.map",
+    "index.html": "/public-piskel-clone/index.html",
+    "precache-manifest.24bad6c6b76161e139bef3401f3a795b.js": "/public-piskel-clone/precache-manifest.24bad6c6b76161e139bef3401f3a795b.js",
+    "service-worker.js": "/public-piskel-clone/service-worker.js",
+    "static/css/main.36e71e44.chunk.css.map": "/public-piskel-clone/static/css/main.36e71e44.chunk.css.map",
+    "static/media/developer.jpg": "/public-piskel-clone/static/media/developer.0d2fa9c5.jpg",
+    "static/media/piskel.png": "/public-piskel-clone/static/media/piskel.bc224062.png",
+    "static/media/piskel2.png": "/public-piskel-clone/static/media/piskel2.a4086f1c.png"
   }
 }
