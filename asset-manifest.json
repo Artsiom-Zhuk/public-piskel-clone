@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/public-piskel-clone/static/css/main.c3d8a03e.chunk.css",
-    "main.js": "/public-piskel-clone/static/js/main.10c33876.chunk.js",
-    "main.js.map": "/public-piskel-clone/static/js/main.10c33876.chunk.js.map",
+    "main.css": "/public-piskel-clone/static/css/main.9229dd16.chunk.css",
+    "main.js": "/public-piskel-clone/static/js/main.c7a077d9.chunk.js",
+    "main.js.map": "/public-piskel-clone/static/js/main.c7a077d9.chunk.js.map",
     "runtime~main.js": "/public-piskel-clone/static/js/runtime~main.c845f434.js",
     "runtime~main.js.map": "/public-piskel-clone/static/js/runtime~main.c845f434.js.map",
-    "static/js/2.972402dc.chunk.js": "/public-piskel-clone/static/js/2.972402dc.chunk.js",
-    "static/js/2.972402dc.chunk.js.map": "/public-piskel-clone/static/js/2.972402dc.chunk.js.map",
+    "static/js/2.098e5369.chunk.js": "/public-piskel-clone/static/js/2.098e5369.chunk.js",
+    "static/js/2.098e5369.chunk.js.map": "/public-piskel-clone/static/js/2.098e5369.chunk.js.map",
     "index.html": "/public-piskel-clone/index.html",
-    "precache-manifest.dd834f98ed54fe869d6f92a20837d132.js": "/public-piskel-clone/precache-manifest.dd834f98ed54fe869d6f92a20837d132.js",
+    "precache-manifest.b40971c482c759cbe36898e58502f198.js": "/public-piskel-clone/precache-manifest.b40971c482c759cbe36898e58502f198.js",
     "service-worker.js": "/public-piskel-clone/service-worker.js",
-    "static/css/main.c3d8a03e.chunk.css.map": "/public-piskel-clone/static/css/main.c3d8a03e.chunk.css.map",
+    "static/css/main.9229dd16.chunk.css.map": "/public-piskel-clone/static/css/main.9229dd16.chunk.css.map",
     "static/media/developer.jpg": "/public-piskel-clone/static/media/developer.0d2fa9c5.jpg",
-    "static/media/piskel.png": "/public-piskel-clone/static/media/piskel.bc224062.png",
-    "static/media/piskel2.png": "/public-piskel-clone/static/media/piskel2.a4086f1c.png"
+    "static/media/gif1.gif": "/public-piskel-clone/static/media/gif1.470e8804.gif",
+    "static/media/piskel1.png": "/public-piskel-clone/static/media/piskel1.1f68c2f6.png",
+    "static/media/piskel2.png": "/public-piskel-clone/static/media/piskel2.e9cd8ede.png"
   }
 }
